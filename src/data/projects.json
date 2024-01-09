@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Blog Application",
+    "imageSrc": "projects/project.png",
+    "description": "Users can read other users blogs and writes their own blogs",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://mern-blog-app-lvl4.onrender.com/",
+    "source": "https://github.com/KarthikeyanRamesh/blog-app-mern"
+  }
+]
